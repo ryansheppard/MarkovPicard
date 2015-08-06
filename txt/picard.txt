@@ -3310,7 +3310,7 @@ A lot of questions, Number One. Damn fewanswers.
 With no guarantee of finding anything when you arrive. Well,you have twelve hours to think it over. And if it's not too premature,congratulations, Captain.
 Establish synchronous orbit. 
 Starbase Montgomery is sending a civilian advisor on board tobrief you on the Ares's mission. 
-A strategic attaché with specialised knowledge in the frontierregions. I think you'll find the briefing interesting. 
+A strategic attachÃ© with specialised knowledge in the frontierregions. I think you'll find the briefing interesting. 
 Enjoy.
 You've seen your mission briefing? 
 Any questions? 
@@ -6402,7 +6402,7 @@ There will be three Cardassianstransporting aboard. Their Captain, Gul Macet an
 The pursuing ship is the Phoenix. 
 We are able to make that determination. 
 The important thing at the moment is that one of your ships maybe in jeopardy. Mister Worf, has there been any answer to ourcommunication? 
-Put out a repeating message on all subspace channels, priorityone communiqué. Break off your pursuit immediately. 
+Put out a repeating message on all subspace channels, priorityone communiquÃ©. Break off your pursuit immediately. 
 Gul Macet, you see we are doing everything in our power toreach the Phoenix. 
 Mister Data. 
 Mister Worf, has there been any response to our hails? 
@@ -6884,7 +6884,7 @@ As you were. Mister Data, will you join mein my Ready room.
 The original Tarchannen disappearances were never solved, werethey? 
 Slow to impulse power. Mister Worf? 
 Hail the vessel. 
-Put a repeating message on all subspace channels. Order theLieutenant to come about and stand to. Make it a priority onecommuniqué. 
+Put a repeating message on all subspace channels. Order theLieutenant to come about and stand to. Make it a priority onecommuniquÃ©. 
 On screen. 
 How soon, Mister Data? 
 Options? 
@@ -11976,3 +11976,723 @@ Transfer emergency power to the antimattercontainment system!
 No. I, er, I just thought that I might, erm, I might join youthis evening. If there's room. 
 Oh, er, thank you, Mister Data. Actually, I used to be quite acard player in my youth, you know. I should have done this a long timeago. 
 So. Five card stud, nothing wild, and the sky's the limit. 
+Duty. ...A starship captain's life is filled with solemn duty. I have commanded men in battle. I have negotiated peace treaties between implacable enemies. I have represented the Federation in first contact with twenty-seven alien species, but none of this compares to my solemn duty today ...as best man. Now, I know that on an occasion such as this it is expected that I be gracious and fulsome in my praise on the wonders of this blessed union. But have you two considered what you are doing to me? Of course you're happy, but what about my needs? This is all a damned inconvenience, and while you're happily settling in on the Titan, I will be training my new first officer. You all know him. He's a tyrannical martinet who'll never, ever allow me to go on away missions!
+Data!
+Shut up.
+Fifteen years I've been waiting to say that!
+No, seriously, Will, Deanna, there's still time to reconsider. ...Yes?
+No? Oh very well then. ...Will Riker, you have been my trusted right arm for fifteen years. You have kept my course true and steady. ...Deanna Troi, you've been my guide ...and my conscience. You have helped me recognise the better parts of myself. You are my family. ...And in best maritime tradition ...I wish you both clear horizons. ...My good friends, ...make it so. ...The bride and groom.
+It was from the heart.
+Like I know you are! You already know too much about me, ...but I take it there will be no speeches during the ceremony on Betazed?
+Won't do what, Mister Worf?
+Oh, come now! A big, handsome, strapping fellow like you? What can you be afraid of?
+What sort of signature?
+What do we know about it?
+Theories?
+It's still well on our side. I think... I think it's worth taking a look. Don't worry, Number One, we'll still have you to Betazed with plenty of time to spare...
+...where we will all honour the Betazoid tradition. ...Now, if youll excuse me, ...Ill be in the gym.
+What do we know about the population of Kolarus Three?
+Understood. ...Data, Mister Worf, you're with me.
+I appreciate your concern, Number One, but I've been itching to try the Argo.
+Captain's prerogative. There's no foreseeable danger ...and your wife would never forgive me if anything were to happen to you.
+You have the bridge, ...Mister Troi!
+Fan out. Let's search around.
+Mister Worf, bring it to the vehicle.
+This doesn't feel right.
+To the vehicle! ...I think it's time to try some unsafe velocities!
+Data!
+Data.
+Be-four? Doctor Soong's penchant for whimsical names seems to have no end.
+Number One, keep me informed, and ...Geordi reassemble him.
+Tea, Earl Grey, hot.
+Acknowledged.
+Admiral Janeway. How good to see you again.
+With or without the rest of the fleet?
+New Praetor?
+Understood.
+Hardly.
+Just lucky, Admiral.
+Helmsman, lay in a new course. Take us to Romulus. Warp eight.
+I'm afraid the Opal Sea will have to wait, Number One. Engage.
+Cannon fodder.
+Coup d'état?
+What have you learned about Shinzon?
+Well, ...it seems as though we're truly sailing into the unknown. Keep at it. Anything you can give me will be appreciated. Dismissed.
+Counselor?
+Not yet, Mister Worf.
+Patience. Diplomacy is a very exacting occupation. We will wait.
+No!
+Tactical analysis, Mister Worf.
+She's a predator.
+On screen.
+Praetor Shinzon, I am pleased to...
+Away team to transporter room four.
+Praetor Shinzon?
+You are not as we imagined you.
+Praetor?
+We came to Romulus on a matter we were assured was of great importance. If you have anything to say to us as representatives of the Federation, I suggest you do it now.
+I would be interested to know what we're talking about.
+Yes.
+...Yes.
+I intend to find out, Number One. Inform Starfleet of the situation. I need to know where the hell he came from. ...Counselor.
+What happened?
+Not quite.
+Yes.
+So I'm not as tall as you expected?
+As had I.
+How did you end up on Remus?
+You're doing this to liberate the Remans.
+But how many Romulans died for your freedom?
+I have no reason to.
+If you had lived my life you would understand my responsibility to the Federation. I cannot allow my personal feelings to unduly influence my decisions.
+I can tell you about my past.
+I think of myself as an explorer.
+I was the first Picard to leave our solar system. It caused quite a stir in the family, but I'd spent my youth...
+...new worlds. ...I'm trying to believe you, Shinzon. ...If there is one ideal the Federation holds most dear is that all men, all races, can be united. ...What better example. A Starfleet captain standing in the Romulan Senate. ...Nothing would make me more proud than to take your hand in friendship. In time, ...when that trust has been earned.
+Source?
+What programs were accessed?
+Nevertheless we must learn the source. Keep me informed.
+I thought thalaron radiation was theoretical.
+Thalaron research was banned in the Federation because of its bioqenic properties.
+I understand. Keep on it. I want to know what he has and how to neutralise any threat.
+Come. ...Beverly, come in. ...Remember him?
+He was a damn fool. Selfish, ambitious, very much in need of seasoning.
+I really wanted to believe Shinzon. ...But this thalaron radiation just can't be explained away. ...Whatever he's after, it isn't peace.
+...Oh yes.
+Go ahead, Data.
+Deanna, can you describe it?
+Permission denied. If you can endure more of these assaults, I need you at my side now, more than ever. The Enterprise is far from Federation space and...
+What are you going to do?
+All of this so you could capture me?
+What is all this about?
+You're not Reman.
+If your issues are with me then deal with me. This has nothing to do with my ship. Nothing to do with the Federation.
+Are you ready to plunge the entire Quadrant into war to satisfy your own personal demons?
+I'm incapable of such an act.
+Shinzon, ...I'm a mirror for you as well.
+About time, Mister Data!
+It's a weapon?
+What about the download?
+Good work.
+It will only work for one of us.
+We'll find a way off, together.
+A bit less florid, Data.
+Go!
+Data!
+Alacrity would be appreciated, Commander.
+While I find that fascinating, Data, we really need that door open!
+Data, what do you imagine this is?
+Data, can you open the shuttlebay doors?
+Well then, ...only one way to go.
+We're about to find out, Data. ...Power up the disruptors.
+Fire!
+Dying? ...Can anything be done for him?
+How long does he have?
+...Then he'll come for me.
+He could only have built a weapon of such scope for one reason. He's going after Earth.
+I know how he thinks.
+The Romulans invade...
+I'm counting on it. We've been ordered to head to sector ten forty-five. Our fleet has diverted to meet us there.
+At least that's what we hope. ...He must not be allowed to use that weapon. All other concerns are secondary. ...You understand me?
+All hands. Battle stations!
+Data, what's our current position? ...How soon until we reach the fleet?
+'For now we see but through a glass darkly'
+He said he's a mirror.
+Yes.
+If I had lived his life, is it possible I would have rejected my humanity?
+How can you be sure?
+It's interfering with our uplink from Starfleet cartography?
+Commander Riker! Evasive maneuvers!
+Report.
+Mister Worf, prepare a full phaser spread, zero elevation. All banks on my mark. Scan for shield impacts. Stand by photon torpedoes.
+Fire!
+Full axis rotation to port! Fire all ventral phasers!
+Counselor Troi, report to the bridge.
+On screen.
+Why are you here?
+And the Enterprise?
+Look at me, Shinzon. ...Your heart, your hands, your eyes are the same as mine. The blood pumping within you, the raw material is the same. We have the same potential.
+It can be the future. Buried deep within you, beneath all the years of pain and anger there is there is something that has never been nurtured. The potential to make yourself a better man, and that is what it is to be human. To make yourself more than you are. ...Oh yes, I know you. ...There was a time you looked at the stars and dreamed of what might be.
+I see more than that. I see what you could be. ...The man who is Shinzon of Remus and Jean Luc Picard could never exterminate the population of an entire planet! He is better than that!
+And what will he do with that life? Waste it in a blaze of hatred? There is a better way.
+Never! Never! You still have a choice! Make the right one now!
+Yes you can!
+On screen.
+Assistance?
+Commander, when this is over, I owe you a drink.
+You heard the lady. Let's go to work.
+Mister Worf, coordinate our attack with the Valdore's tactical officer. Triangulate all fire on any shield impacts.
+Do you have life support?
+Understood.
+Fire at will!
+Divert all power and compensate.
+Number One.
+Medical team to the bridge.
+Report.
+What if we targeted all phasers in a concentrated pattern?
+He wants to look me in the eye. ...We've got him. ...He thinks he knows exactly what I'm going to do. Geordi, divert all power to the engines. Take it from life support if you have to. Give me everything you've got.
+Deanna, stand by. ...Open a channel.
+Oh yes, I am.
+Shinzon, I don't think I ever told you about my first Academy evaluation. In particular I was thought to be extremely ...over-confident.
+On my mark, Deanna. ...All hands, brace for impact! ...Engage.
+Computer. Stand by. Auto-destruct sequence omega. Recognise voice pattern Jean Luc Picard. Authorisation alpha alpha three zero five.
+How long until he can fire?
+It's not about me anymore.
+Prepare for a site-to-site transport.
+That's an order, Commander.
+Data, this is something I have to do.
+You have the bridge, Commander. Try and put some distance between you and the Scimitar. Now, Mister La Forge.
+On screen. ...Open a channel.
+Thank you, Commander.
+Geordi, ...prepare the shuttlebay for arrivals. They... They don't know our procedures. ...Just open the doors.
+You have the bridge, Number One.
+To absent friends. ...To family.
+Come. ...Will!
+Granted. ...So, where's the Titan off to?
+Well I can't think of a better man for the job. ...If I may, just a word of advice about your first command.
+When your first officer insists that you can't go on away missions,...
+The honour was mine, Captain.
+I don't know if all this has made any sense. I wanted you to know what kind of man he was. In his quest to be more like us ...he helped us to see what it means to be human.
+No, he wasn't. But his wonder, his curiosity about every facet of human nature ...allowed all of us to see the best parts of ourselves. He evolved. He embraced change because he always wanted to be better than he was.
+Well, I hope someday you will.
+I'm on my way. Please inform Commander La Forge.
+We'll talk later.
+'...shining so bright'
+'...going so right.'
+Mister Worf, I always knew this day would come. Are you prepared to face the charges?
+Mister Worf. I hereby promote you to the rank of Lieutenant Commander, with all the rights and privileges thereto. And may God have mercy on your soul.
+Congratulations, Mister Worf.
+If there's one thing I've learnt over the years, is never to underestimate a Klingon.
+Number One. That's 'Retract the plank' not 'Remove the plank'.
+Will, ...just imagine what it was like. No engines. No computers. Just the wind and the sea and the stars to guide you.
+Picard here.
+Put it through down here. The best thing about a life at sea was that no one could reach you. This was freedom, Will.
+Computer. Arch.
+Yes. I'm fine. ...Excuse me.
+Computer. Exit.
+Survivors?
+Stand down from RED ALERT. ...Number One, ...will you begin an investigation? I'll be in my ready room.
+Make it so. Just do it!
+There's still no indication of why they attacked the station?
+This could signify a new Romulan threat in this sector. Inform Starfleet Command.
+Is there a problem?
+Understood. That'll be all.
+No. ...Thank you.
+I'm looking for a Doctor Soran from the observatory. ...Doctor Soran.
+I understand there's something urgent you wish to discuss with me.
+We're still conducting our investigation into the attack. ...As soon as that is complete, then I will allow you and your colleagues to return. But until then there is nothing I can do.
+We're doing the best we can. If you'll excuse me.
+I'll see what I can do.
+Yes. Come. ...Yes, Counselor. Is there something I can do for you?
+Oh, it's just family matters. ...You never met my brother and his wife, did you?
+Robert. ...So opinionated. So pompous and arrogant. He always had to have the last word. But he mellowed a little bit in the last few years. I was going to get together with them all next month on Earth. I thought we'd go to San Francisco. René's always wanted to see Starfleet Academy.
+He's so unlike his father. He's a dreamer. Imaginative. ...Very gentle.
+Robert and René, they're... ...burned to death in a fire.
+That's all right, Counselor. These things happen.
+I can't help keep thinking about ...about all the experiences that René is not going to have. Not going to Academy, reading books and listening to music, falling in love. ...Building a life. ...Well, it's not going to happen now.
+I'd come to feel that René was as close as I would get to having a child of my own.
+Right. Oh, ...from being a small child, I can remember being told about the family line. The Picard who fought at Trafalgar. The Picard who won the Nobel Prize for chemistry. The Picard's who settled the first Martian colony. When Robert married and had a son, I...
+Right. Yes. That's it exactly. You know, Counselor, Recently I've become very much aware that there are fewer days ahead than there are behind. ...But I took comfort from the fact that ...the family would go on. But now there'll be no more Picards.
+Report.
+How is that possible?
+How long before the shock wave hits the observatory?
+Number One.
+What?
+Helm! Warp one. Engage!
+You remember him?
+Guinan. It is very important that you tell me everything that you know. We think that Soran has developed a weapon, ...a terrible weapon. One that might even give him enough power to destroy...
+What's the 'Nexus'?
+What happened to you?
+And then you were beamed away from there.
+What about Soran?
+Why would he destroy a star? ...Thank you, Guinan.
+Yes. Guinan was right. She said that Soran was trying to get back to the ribbon. Now if that's true there has to be some connection with the Amargosa star. Data, give me a list of anything that was affected by the star's destruction, no matter how insignificant.
+Data?
+Data, ...are you all right?
+What do you mean?
+Wait. The Bozeman. ...Why would it make a course correction?
+A minor course correction? ...Where's the ribbon now?
+Can you project its course?
+Are you having some kind of malfunction?
+Data, I have nothing but sympathy for what you are feeling, but right now I need you to...
+Part of having feelings is learning to integrate them into your life, Data, ...learning to live with them. No matter what the circumstances...
+You will not be deactivated! You're an officer on board this ship and I require you to perform your duty. That is an order, Commander!
+Sometimes it takes courage to try, Data. Courage can be an emotion too. Now can you project the course of the ribbon?
+Enhance grid nine-A. ...Where was the Amargosa star? ...Now you said when the Amargosa star was destroyed, it affected the gravitational forces in this sector. Did the computer take that into account when it projected the course of the ribbon?
+That's what Soran's doing, ...he's changing the course of the ribbon. ...But why? Why would he try to change its path? ...Why doesn't he just fly into it with a ship?
+He can't get to the ribbon, so he's trying to make the ribbon come to him. ...Data, does it pass near any M-Class planets?
+It's close to Veridian Three ...but not close enough. ...Data, what would happen to the ribbon's course if Soran destroyed the Veridian star itself? ...That's where he's going.
+Destroying all the planets in this system.
+Population?
+Picard to bridge.
+Set a course for the Veridian system, maximum warp.
+They're just trying to decide whether a twenty year-old Klingon Bird-of-Prey can be a match for the Federation flagship.
+Mister Data, how long before the ribbon arrives?
+I've got to find some way to get to Soran.
+On screen.
+Lursa, It is very important that I speak with Soran.
+Then I will beam to his location.
+Then I will beam to your ship and you can transport me to Soran.
+Me! I will be your prisoner, but first you must beam me to the surface so I can speak with Soran.
+Agreed. ...Have Doctor Crusher meet me in transporter room three. You have the bridge, Number One.
+Energise.
+The thought had crossed my mind.
+Soran!
+You don't need to do this, Soran. ...I'm sure we could find another way of getting you into this Nexus.
+What you're about to do Soran, is no different from when the Borg destroyed your world. They killed millions too, ...including your wife ...and children.
+It's our mortality that defines us, Soran. It's part of the truth of our existence.
+The Nexus?
+What... What is this? Where am I?
+MADISON We love you father.
+THOMAS Were you scared?
+MIMI I helped decorate the tree.
+OLIVIA I helped decorate it. It took all day.
+THOMAS Say Merry Christmas, Papa.
+OLIVIA Seen your present?
+MIMI I love you, father.
+And I love you too.
+ELISE Move back and give your father some room. ...Cup of Earl Grey?
+That would be perfect, dear.
+RENÉ This one's for you.
+Oh, thank you very much, René.
+RENÉ Merry Christmas, uncle.
+And Merry Christmas to you too.
+René! ...Come here. ...Go and help your aunt.
+This isn't right. ...This can't be real.
+Guinan! ...What's going on? ...Why am I here?
+This is the Nexus?
+But ...I never had a home like this. ...Nor a wife and children. ...But these are all mine. ...Guinan, what are you doing here? ...I thought you were on board the Enterprise.
+When the Enterprise-B beamed you up from the Lakul?
+THOMAS Papa, help me build my castle.
+Yes I will, in a few minutes.
+MIMI Papa, thank you for the dolly. She's very beautiful.
+These are my children. ...These are my children!
+MATTHEW Dinner's ready, Papa.
+Go on. Go on without me.
+Guinan, ...can I leave the Nexus?
+I don't understand.
+All right, I know exactly where I want to go. The mountaintop on Veridian Three, just before Soran destroyed the star. I have to stop it. But I need help. Now, if you were to come back with me. Together, we c...
+Kirk! ...James T. Kirk.
+Yes, it certainly is.
+Oh.
+Captain, I'm wondering, do you realise?...
+I'm Captain Jean-Luc Picard of the Starship ...Enterprise.
+I'm from what you would consider the future, ...the twenty-fourth century.
+I know how real this must seem to you, but it's not. This isn't really your house. We're both of us caught up in some kind of temporal nexus.
+I beg your pardon?
+How long have you been here?
+Ow!
+Look, ...history records that you died saving the Enterprise-B from an energy ribbon eighty years ago.
+Not exactly. As I said, this is some kind of...
+KIRK/Temporal nexus.
+Captain, look! I need your help. I want you to leave the Nexus with me. ...We have to go back to a planet, Veridian Three. ...We have to stop a man called Soran from destroying a star. Millions of lives are at stake.
+You are a Starfleet Officer. You have a duty...
+This is not your bedroom.
+Better?
+That's right.
+I'm not planning on it.
+Come back with me. Help me stop Soran. Make a difference again.
+Yes.
+You could say that.
+He's James T. Kirk. Don't you read history? ...I've got to get to the launcher. The ribbon will be here in a minute.
+I changed my mind. ...Captain's prerogative.
+We need that control padd. ...Captain, look! ...Where's Soran?
+We're running out of time. ...Look! The control padd is still on the other side.
+No, you'll never make it by yourself. We've got to work together.
+Good luck, Captain.
+Oh, yes, we made a difference. Thank you.
+Yes, that's it, Number One. Thank you.
+Someone once told me that time is a predator that stalks us all our lives. I rather believe that time is a companion who goes with us on the journey, and reminds us to cherish every moment, ...because they'll never come again. ...What we leave behind is not as important as how we lived. ...After all, Number One, we're only mortal.
+You may still, Will. ...Somehow I doubt this will be the last ship to carry the name Enterprise. ... Picard to Farragut. Two to beam up.
+I am Locutus of Borg. Resistance is futile.
+Authorisation Picard four seven alpha tango. ...Admiral?
+No, of course not.
+Yes, I know. ...The Borg.
+One, and it's on a direct course for Earth. It'll cross the Federation border in less than an hour. Admiral Hayes is mobilising a fleet in the Typhon sector.
+We're not going.
+Our orders are to patrol the Neutral Zone, in case the Romulans decide to take advantage of the situation.
+I have gone over all this with Starfleet Command. Their orders stand. ...Number One, set a course for the Neutral Zone
+Berlioz. What do you have?
+Oh, fascinating. Twenty particles of space dust per cubic metre. Fifty-two ultra-violet radiation spikes and a class two comet. Well, this is certainly worthy of our attention.
+Let's just say that Starfleet has every confidence in the Enterprise and her crew. They're just not sure about her Captain. They believe that a man who was once captured and assimilated by the Borg should not be put in a situation where he would face them again. To do so would introduce an unstable element to a critical situation
+Admiral Hayes disagrees.
+Go ahead.
+Data, put Starfleet frequency one four eight six on audio.
+Lieutenant Hawk. Set a course for Earth.
+Maximum warp. ...I am about to commit a direct violation of our orders. Any of you who wish to object should do so now. It will be noted in my log.
+Engage.
+Bridge to transporter room three. Beam the Defiant survivors aboard.
+What is the status of the Borg cube?
+On screen. ...Number One, open a channel to the fleet.
+This is Captain Picard of the Enterprise. I am taking command of the fleet. Target all of your weapons onto the following coordinates. ...Fire on my command.
+Trust me Data.
+Fire.
+Mister Hawk. Pursuit course. ...Engage.
+I can hear them.
+Welcome aboard the Enterprise, Mister Worf.
+Adrift, but salvageable.
+Mister Worf, we could use some help at tactical.
+They're creating a temporal vortex.
+Data, report!
+Life signs?
+They must have done it in the past. ...They went back and assimilated Earth. ...Changed history.
+Hold your course, Mister Hawk. We must follow them back. Repair whatever damage they've done.
+Report.
+Mister Worf. Quantum torpedoes.
+Fire.
+They were firing at the surface. Location?
+A missile complex? ...The date? Mister Data, I need to know the exact date.
+April fourth?
+That's what they came here to do. Stop First Contact.
+We'll have to go down there. Find out what happened. Data, Beverly, you're with me. Have a security team meet us in transporter room three. Computer. Mid-twenty-first century civilian clothing. ...Number One, you have the bridge.
+Over here.
+See if one of them is Cochrane. Data, let's go check the warp ship.
+We should have the original blueprints on the Enterprise computer. Commander La Forge will need to bring a team down here.
+Doctor...
+Very well. Tell Commander Riker to beam down with a search party. We need to find Cochrane.
+We have less than forty-eight hours before this ship has to be launched. Picard to engineering.
+Geordi, Cochrane's ship was damaged in the attack. Get down here with an engineering detail. We have work to do.
+Isn't it amazing? This ship used to be a nuclear missile.
+It's a boyhood fantasy, Data. I must have seen this ship hundreds of times in the Smithsonian, but I was never able to touch it.
+Oh, yes. For humans, touch can connect you to an object in a very personal way. It makes it seem more real.
+What have you found out?
+He has to be here. There was nothing more important to him than this ship. This flight. It was his dream.
+Huh. If that's true then the future may die with him.
+Picard to Enterprise. Mister Worf, is everything all right up there?
+What kind of difficulties?
+Mister Data and I are returning to the ship.
+Number One, take charge down here.
+Commander Worf. I need to know exactly what's been happening.
+No! Seal off deck sixteen. Post security teams at every access point.
+Mister Hawk, before we lost internal sensors what were the exact environmental conditions in main engineering?
+Thirty-nine point one degrees Celsius. ...Like a Borg ship. They knew their ship was doomed, our shields were down and somehow they transported over here without being detected. They'll assimilate the Enterprise, and then ...Earth. ...Picard to Riker. ...Enterprise to away team. ...Respond.
+Quickly, Mister Data. Lock out the main computer.
+The Borg won't stay on deck sixteen.
+The first thing they'll do in engineering is establish a collective, a central point from which they can control the hive. The problem is if we begin firing particle weapons in engineering there's a risk we may hit the warp core. I believe our goal should be to puncture one of the plasma coolant tanks. Data?
+True, but like all cybernetic lifeforms they cannot survive without their organic components.
+One other thing. ...You may encounter Enterprise crewmembers who've already been assimilated. Don't hesitate to fire. Believe me you'll be doing them a favour. ...Let's go.
+Data, I'm sure it's a fascinating experience. Perhaps you should deactivate your emotion chip for now.
+Data, there are times when I envy you.
+Lower your weapons. They'll ignore us 'til they consider us a threat.
+The manual release? ...Mister Worf, hold this position.
+Perhaps we should just knock?
+Data.
+Data, cover me.
+Regroup on deck fifteen. Don't let them touch you!
+Data!
+Here!
+You! How the hell did you?...
+Calm down!
+My name is Jean-Luc Picard...
+I'm not a member of the Eastern Coalition. Listen.
+That isn't going to be easy.
+All right! ...Follow me.
+Something must have happened in sickbay. Where is Doctor Crusher and the others?
+We didn't attack you.
+There's a... There's a new faction that wants to prevent your launch tomorrow morning. But we're here to help you. This may be difficult for you to accept, but you are not in Montana anymore. You are on a ship, ...a spaceship, orbiting the Earth at an altitude of...
+All right. ...You want a way out. Here it is.
+Australia, New Guinea, The Solomons. Montana will be up soon but you may want to hold your breath. It's a long way down. ...Now listen to me. I'm not your enemy and I can get you home. First you must put that weapon down and trust me. ...Jean-Luc Picard, my name. That's my name. What's yours?
+Welcome aboard, Lily.
+Thank you. ...Maximum setting. If you'd fired this you would have vaporised me.
+Forcefield.
+That's because it hasn't been invented yet.
+There's more I have to tell you. Come on.
+Over one hundred and fifty ...spread across eight thousand light years.
+Actually, I tend to think of this ship as home. But if it's Earth you're talking about I try to get back whenever I can. ...Good they haven't broken the encryption code yet.
+The Borg.
+There are twenty-four decks. Almost seven hundred metres long.
+The economics of the future are somewhat different. ...You see, money doesn't exist in the twenty-fourth century.
+The acquisition of wealth is no longer the driving force in our lives. ...We work to better ourselves ...and the rest of humanity. Actually we're rather like yourself and Doctor Cochrane.
+All right! ...Come on.
+I know what I'm doing.
+Perhaps something in satin?
+I'm looking for Nicky the Nose.
+This is the wrong chapter.
+Computer! Begin Chapter thirteen.
+Try and look as if you're having a good time.
+No, no, no, look at me. Try to act naturally. ...There he is.
+Ruby! This is not a good time.
+I have to talk to Nicky. I'll see you later.
+The usual, Nick. Martinis and skirts. ...Excuse me.
+No offence.
+I disengaged the safety protocols. Without them even a holographic bullet can kill.
+I'm looking for the neural processor. Every Borg has one. It's like a memory chip. It will contain a record of all the instructions this Borg has been receiving from the collective.
+Yes, this was Ensign Lynch.
+I've got to get to the bridge.
+Reports of my assimilation are greatly exaggerated. I found something you lost.
+We have another problem. I've accessed a Borg neural processor and I've discovered what they are trying to do. They're transforming the deflector dish into an interplexing beacon.
+It's a subspace transmitter. If they activate the beacon they'll be able to establish a link with the Borg living in this century.
+They'll send reinforcements. Humanity will be an easy target. Attack the Earth in the past ...to assimilate the future.
+We can't get to deflector control or the shuttlecraft. ...Mister Worf, do you remember your zero-G combat training?
+I think it's time that we took a little stroll.
+Then we must make every shot count. ...Magnetise.
+I intend to.
+How are you doing, Mister Worf?
+Try not to look at the stars. Keep your eyes on the hull. ...Let's go.
+There's no time. It looks as if they're building the beacon right on top of the particle emitter. Once all the transponder rods are in place the beacon will be activated.
+No! There's a risk that we hit the dish. It's charged with anti-protons. We could destroy half the ship. We have to find another way.
+For this to work all three maglocks will have to be released.
+Hawk!
+We'll have to work on finding another way to modify our weapons so they'll be more effective. In the meantime, tell your men to stand their ground.
+Fight hand-to-hand If they have to.
+No!
+We're going to stay and fight.
+We have not lost the Enterprise, Mister Worf. We are not going to lose the Enterprise. Not to the Borg. Not while I'm in command. You have your orders.
+Your objection is noted.
+You're afraid. You want to destroy the ship and run away. You coward.
+Get off my bridge.
+This really isn't the time.
+The crew is accustomed to following my orders.
+None of them understand the Borg as I do. ...No one does. No one can.
+Six years ago, they assimilated me into their collective. I had their cybernetic devices implanted throughout my body. I was linked to the hive mind, every trace of individuality erased. I was one of them. So you can imagine, my dear, I have a somewhat unique perspective on the Borg and I know how to fight them. Now if you will excuse me I have work to do.
+In my century we don't succumb to revenge. We have a more evolved sensibility.
+How dare you!
+Get out!
+There was no way to save him.
+I don't have time for this.
+What?
+This is not about revenge.
+This is about saving the future of humanity.
+No! ...No!
+No! ...I will not sacrifice the Enterprise. We've made too many compromises already. Too many retreats. They invade our space and we fall back. They assimilate entire worlds, and we fall back. Not again! The line must be drawn here, ...this far, no further! And I will make them pay for what they've done.
+'And he piled upon the whale's white hump, a sum of all the rage and hate felt by his own race. If his chest had been a cannon, he would have shot his heart upon it.'
+'Moby Dick.'
+Ahab spent years hunting the white whale that crippled him. A quest for vengeance, ...but in the end it destroyed him and his ship.
+Prepare to evacuate the Enterprise.
+Begin autodestruct sequence, authorisation Picard, four seven alpha tango.
+This is Captain Jean-Luc Picard, destruct sequence alpha one. Fifteen minutes silent countdown. ...Enable.
+We barely knew her.
+Plenty of letters left in the alphabet. ...Mister Worf. I regret some of the things I said to you earlier.
+As a matter of fact I think you're the bravest man I have ever known.
+See you on Gravett Island.
+Data.
+If you see Commander Riker or any of my crew, give them this.
+Orders to find a quiet corner of North America and ...stay out of history's way.
+To both of us.
+Lily, when I was held captive on the Borg ship, my crew risked every thing to save me. There is ...someone still on this ship, and I owe him the same.
+Yes, ...I remember you. You were there all the time. But that ship and all the Borg on it were destroyed.
+What have you done to him?
+Let him go. He's not the one you want.
+Offering myself? ...That's it. I remember now. It wasn't enough that you assimilate me. I had to give myself freely to the Borg, ...to you.
+You're lying. You wanted more than just another Borg drone. You wanted a human being with a mind of his own, who could bridge the gulf between humanity and the Borg. You wanted a counterpart, but I resisted. I fought you.
+It's not too late. Locutus could still be with you, just in the way you wanted. An equal. Let Data go and I will take my place at your side, willingly without any resistance.
+Data, go.
+Data! No, don't do it. ...Data, listen to me.
+Data! ...Data.
+Data, ...are you all right?
+She was unique.
+How long a time?
+I think it's time we made a discrete exit.
+I envy you. Taking these first steps into a new frontier. ...I shall miss you, Lily.
+Picard to Enterprise. Energise.
+Report.
+Recreate the vortex, Commander.
+Mister Data, lay in a course for the twenty-fourth century. I suspect our future is there waiting for us.
+Make it so.
+Say the greeting again.
+Yew-cheen chef-faw. My collar size is exactly as it was at the Academy.
+Better have the chef whip up a light balsamic vinaigrette... something that goes well with chrysanthemums.
+Yew-cheen...
+Yew-cheen chef-faw.
+Go ahead, Ensign.
+The Goren system?
+Oh no! We can't delay the archaeological expedition to Hanoran Two. That'll put us right in the middle of monsoon season.
+Thank you.
+Oh, so they need us to put out one more brush fire. Can anyone remember when we used to be explorers?
+Yew-cheen chef-faw.
+In view of our losses to the Borg and the Dominion, the Council feels we need all the allies we can get these days.
+Very funny.
+Mister Worf!
+What the hell are you doing here?
+Excuse me. Tell him I'm already here and I'll talk to him when he arrives.
+Yew-cheen chef-faw, Regent Cuzar. Welcome aboard the Enterprise.
+We have a dance later, I believe?
+Counselor?...
+Data should have been back by now. They were only scheduled to observe the Ba'ku village for one week. Geordi, would you set up a secure com-link to the Admiral in the anteroom.
+Would you excuse me?
+Have you any idea what precipitated his behaviour?
+Well the Enterprise could be at your position in two days, Admiral.
+What kind of concerns?
+His emotion chip?
+Ensign, would you report to the galley and tell the chef to skip the fish course.
+I 'd like our guests to depart as soon as etiquette allows. I'm going to ask Worf to delay his return to DS9 so he can join us. We're going to stop by sector four four one on our way to the Goren system.
+Are they?
+Do you have everything you need from command?
+(to Riker and Troi) You have two days to become experts. ...Mister Worf, our job is to come up with a plan to safely capture Data.
+Good to have you back, Mister Worf. ...Slow to one-third. Take us in.
+I don't know how they do it on Deep Space 9, but on the Enterprise, we still report for duty on time.
+We'll skip the court martial this time. Picard out.
+When was the last time we aligned the torque sensors.
+They don't sound right.
+When I was an ensign, I could detect a three-micron misalignment.
+Straighten your baldric, Commander. On screen.
+This was too important for the Enterprise to be on the sidelines, Admiral.
+Commander Worf and I are working on several tactical plans...
+If our first attempt to capture Data fails, I will terminate him. ...I should be the one to do it. I'm his Captain ...and his friend.
+Understood.
+Transmit a wide band co-variant signal. That ought to get his attention.
+The metaphasic radiation of the rings is in a state of extreme flux. We'll steer clear of those.
+'Come out, come out, wherever you are.'
+Oh, that's something that my mother...
+Hold on. ...Open all hailing frequencies. ...Data, this is Captain Picard. Data, please respond!
+Make it so.
+Beam him out!
+Prepare to enter the atmosphere. We'll use the ionospheric boundary to shake him.
+Evasive maneuvers, ...heading one four zero mark three one.
+He can fly a ship. He can anticipate tactical strategies. Clearly his brain is functioning. We've seen how he responds to threats. I wonder how he would respond...
+Mister Worf, do you know Gilbert and Sullivan?
+They're composers, Worf, ...from the nineteenth century.
+Data was rehearsing a production of H.M.S. Pinafore just before he left.
+(singing) 'A British tar is a soaring soul, as free as a mountain bird.'
+'a dictatorial word.' Sing, Worf, sing!
+'His bosom should heave'
+Prepare the docking clamps.
+'His heart should stamp
+'His hair should twirl'
+I'm not letting go of him.
+Reroute emergency power to inertial dampers.
+Transferring controls to manual.
+Engaging stabilisers.
+Maximum power!
+Now, Mister Worf!
+Are you all right?
+Jean-Luc Picard. These are my officers, Doctor Crusher, Counselor Troi.
+No, we're here to ...rescue them.
+Prepare the hostages for transport to the ship.
+We were under the impression they were being held against their will.
+Our people have a strict policy of non-interference in other cultures. It's our Prime Directive.
+The artificial lifeform is a member of my crew. Apparently, he was taken ill.
+You have warp capability?
+I ...apologise for our intrusion.
+...and because they have warp capabilities, the consequences to their society are minimal.
+In stasis. La Forge is completing the diagnostic.
+How were damaged?
+But the Son'a report claimed they didn't fire until after he malfunctioned.
+Why would they fire at him without provocation?
+Fail-safe?
+So what you're saying he still knew the difference between right and wrong.
+And yet he attacked us. And told the Ba'ku that we were a threat. ...Are the implants bothering you?
+You're on the Enterprise, Data.
+Data, what's the last thing that you remember?
+From the mission.
+Can you show us?
+It is nothing personal, Data. You have to remember these people have rejected technology.
+Until this week, that young man probably never saw a machine, let alone one that walks and talks.
+How about a passive radiation scan?
+Data doesn't breathe.
+No.
+'Just a few loose ends to tie up.'
+It think it would be wiser...
+What you're seeing is a computer driven image created by photons and forcefields.
+Data, if you were following the children and discovered this ship...
+Why would they duplicate this village except to deceive the Ba'ku?
+To move you off this planet. You go to sleep one night in the village. Wake up the next morning on this flying holodeck transported en masse. In a few days, you're relocated on a similar planet without ever realising it.
+I don't know.
+Computer. End programme. Decloak the vessel.
+Don't panic.
+Mister Worf, did the hostages mention a cloaked ship during their debriefing?
+Debrief them again. ...Have you been in a fight, Mister Worf?
+Gorch?
+Oh, ...well, it's ...hardly noticeable.
+We're not going anywhere.
+Deck five.
+Picard to Crusher.
+And our people?
+Very good, Doctor. Picard out.
+Worf, don't release the Son'a officers until I've talked to Ahdar Ru'afo.
+Computer. Music. ...No, no, not that. Something Latin.
+A mambo.(Picard begins to move to the rhythm)
+That's more like it.
+How old are you?
+And you haven't aged a day since then?
+We've just begun to. ...I suppose you're seventy-five.
+To most offlanders, what you have here would be more valuable than ...gold-pressed latinum. ...I'm afraid that's the reason that someone may be trying to take your world away from you.
+If it were not for Data, it's probable that you would be re-located by now.
+It may not come to that. ...Clearly, the architects of this conspiracy want to keep it a secret. Not only from you, but from my people as well. ...I don't intend to let them.
+Most of my people who live that faster life would sell their souls to slow it down.
+There are days!
+Well, in defence of offlanders, there are many more people like me.
+You give me more credit than I deserve. Well, of course, I'm tempted. Who wouldn't be? ...But some of the darkest chapters in the history of my world involve the forced relocation of a small group of people to satisfy the demands of a large one. I'd hoped we had learned from our mistakes, but ...it seems that some of us haven't.
+This is extraordinary craftsmanship.
+Apprenticing for thirty years... ...Did your people's mental discipline develop here?
+Will it?
+A perfect moment?
+Seeing my home planet from space for the first time.
+I wish I could spare a few centuries to learn.
+There's one thing I don't understand. In three hundred years ...you never learned to swim!
+...an offlander?
+Geordi?
+...started to regenerate.
+We found the holoship.
+I won't let you move them, Admiral. I will take this to the Federation Council.
+How can there be an order to abandon the Prime Directive?
+Who the hell are we to determine the next course of evolution for these people?
+A planet in Federation space.
+Our partners are nothing more than petty thugs.
+Someone probably said the same thing about the Romulans a century ago.
+There are metaphasic particles all over the Briar Patch. Why does it have to be this planet?
+Admiral, delay the procedure. Let my people look at the technology.
+Then the Son'a can establish a separate colony on this planet until we do.
+The Ba'ku. ...We are betraying the principles upon which the Federation was founded. It's an attack upon its very soul. ...And it will destroy the Ba'ku ...just as cultures have been destroyed in every other forced relocation throughout history.
+How many people does it take, Admiral, before it becomes wrong? A thousand? Fifty thousand? A million? How many people does it take, Admiral?
+Return to your quarters. ...That's an order.
+They won't begin the procedure while the planet is still inhabited. So, ...our job is to keep the planet inhabited. Will. Geordi. Go back and put a face on what's happening here. Make the Council 'see' the Ba'ku. It's too easy to turn a blind eye to the suffering of a people you don't know.
+We'll hold out as long as we can.
+These veins of kelbonite running through the hills will interfere with their transporters, and when the terrain forces us away from the deposits, then we'll use transport inhibitors as a compensation. The mountains have the heaviest concentration of kelbonite. Once there it will make transport virtually impossible.
+Then we should be able to hold on for a long time once we're there, but they're not Going to make it easy for us to get there.
+Good.
+Let's move these people out!
+Mister Worf, you need a haircut.
+Roughly translated, puberty, although for a Klingon that scarcely does it justice. Any severe mood swings, unusual aggressive tendencies, ...you let me know at once.
+Very well. We'll take an hour.
+By now the Son'a will have scanned the area and know that just as well as we do.
+How is it you never married? And don't tell me it's just because you haven't got around to it yet.
+I should warn you, I've always been attracted to older women.
+How are you doing this?
+We have to find shelter.
+This way!
+Inside the caves! Quickly! ...Everyone! This way!
+Is there any other way out of here?
+Will this structure hold if we were to blast through?
+Fire!
+Get everybody into those caves ...and set up forcefields once they're inside.
+Data, Troi, ...keep these people moving.
+I expect it won't be long before the drones get here.
+How could that be possible?
+Get them ready to move out. ...We need to hurry.
+Anij. ...Anij?
+Yes, yes I can hear you.
+Anij? ...Help is on the way. ...Worf, hurry, Anij is hurt.
+I'm losing her.
+Anij, ...stay with me. ...Help me find the power to keep you in this moment. ...Stay with me. ...Don't let go of this moment.
+Is it safe to move her?
+If a court-martial is the only way to let the people of the Federation know what is happening here, I welcome it.
+The Enterprise would only fire to defend itself. Ru'afo must have ordered the attack. I can't believe he would have given that order without your consent, Admiral. ...I wonder which of us will be facing that court-martial.
+You would kill your own people, Ru'afo? ...Your own parents, ...brothers, sisters. ...Didn't you know, Admiral? The Son'a and the Ba'ku are the same race.
+You brought the Federation into the middle of a blood feud, Admiral. The children have returned to expel their elders, just as they were once expelled. Except that Ru'afo's need for revenge has now escalated to parricide.
+It must have been strange for you when you were a hostage. Surrounded by all the friends and family you knew all those years ago. Each one looking exactly as they did then. Like ...looking through the eyes of childhood again. And here you are closing those eyes, trying not to see what bitterness has done to the Son'a. How it's turned Ru'afo into a madman. And you? ...It's turned you into a coward. ...A man who denies his own conscience.
+A coward without the moral courage to prevent an atrocity. ...You offend me.
+I'm not pleading for my life, ...I'm pleading for yours. You can still go home, Gal'na.
+Do you know how to disable the injector?
+Perhaps we can lure him away.
+...If he doesn't realise something's happening? Can you get me to a transmitter? I need to speak with Data and Worf down on the planet. We'll need their help.
+Go ahead, Data.
+Keep firing tachyon bursts into their shield grid. Is Worf in position?
+Decloak the holo-ship and engage a tractor beam.
+Mister Worf, destroy that thing.
+Can you override the launch sequence from here?
+Is there a self-destruct?
+Mister Worf, try to find some way to beam through those shields.
+Take us into position. ...Remain at your post, Commander. I need you to beam me back.
+Worf?
+Number One.
+I may need a lift in a minute or so!
+Ru'afo, we're getting too old for this.
+You're really going to risk igniting the exhaust? ...All right I will!
+Sorry, time's up.
+What kept you, Number One?
+We have plenty over here, Mister Worf. Prepare to beam aboard.
+Ask them.
+I thought it might begin the healing process.
+I wish I could stay. ...But these are ...perilous times for the Federation. I can't abandon it to people who would threaten everything that I've spent my lifetime defending. I have to go back, if only to ...slow things down at the Federation Council. ...But I have three hundred and eighteen days of shore leave coming and ...I intend to use them.
+Picard to Enterprise. Seven to beam up. ...Energise.

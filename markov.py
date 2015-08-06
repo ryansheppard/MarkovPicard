@@ -21,8 +21,8 @@ api = tweepy.API(auth)
 with open('txt/picard.txt') as f:
     text = f.read()
 
-# Create text model. State size 3 for accuracy
-text_model = markovify.Text(text, state_size=3)
+# Create text model
+text_model = markovify.Text(text)
 
 # Create a sentence limited to 140 chars
 output_text = text_model.make_short_sentence(140)
