@@ -7,3 +7,5 @@ Things you need:
 * [Markovify](https://github.com/jsvine/markovify)
 
 Transcripts of TNG from [here](http://www.chakoteya.net/)
+
+See the bot in action [here](https://twitter.com/MarkovPicard)
