@@ -1,5 +1,6 @@
 accessTokens
 consumerTokens
+keys.py
 history.txt
 *.sh
 txt/
