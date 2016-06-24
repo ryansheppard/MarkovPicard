@@ -2,14 +2,8 @@ import markovify
 import tweepy
 import random
 import datetime
-from keys import keys
+from keys import *
 
-
-# Starts the api and auth
-consumer_key = keys['consumer_key']
-consumer_secret = keys['consumer_secret']
-access_token = keys['access_token']
-access_token_secret = keys['access_token_secret']
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
@@ -38,12 +32,6 @@ def generate_post():
         output_text = text_model.make_short_sentence(127) + " #DrunkPicard"
     else:
         output_text = text_model.make_short_sentence(140)
-
-    # Write the status to a file, along with state size
-    with open('history.txt', 'a') as f:
-        f.write(output_text + '\n')
-        f.write('State size of: ')
-        f.write(str(gen_state_size) + '\n\n')
 
     return output_text
 
