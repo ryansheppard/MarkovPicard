@@ -2,6 +2,7 @@ import markovify
 import tweepy
 import random
 import datetime
+import os
 from keys import *
 
 
@@ -13,7 +14,7 @@ api = tweepy.API(auth)
 
 # Creates the post and logs to a file
 def generate_post():
-    with open('txt/picard.txt') as f:
+    with open(os.path.dirname(__file__) + '/txt/picard.txt') as f:
         text = f.read()
 
     # Decides if it's late enough for Picard to be drunk
